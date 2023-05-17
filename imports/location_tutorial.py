@@ -1,0 +1,1 @@
+# The purpose of this file is to serve as the tutorial area that gets you acquainted with the game and how to operate it

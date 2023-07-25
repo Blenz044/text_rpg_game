@@ -22,15 +22,15 @@ file_3_save_data = load_game_file("file_3_save")
 
 
 # Games master loading list
-master_load_list = (
-    "file_1_not_empty",
-    "file_1_empty",
-    "file_2_not_empty",
-    "file_2_empty",
-    "file_3_not_empty",
-    "file_3_empty",
-    "main_menu",
-)
+# master_load_list = (
+#     "file_1_not_empty",
+#     "file_1_empty",
+#     "file_2_not_empty",
+#     "file_2_empty",
+#     "file_3_not_empty",
+#     "file_3_empty",
+#     "main_menu",
+# )
 
 # Definition of the main game's router
 def game_router():
